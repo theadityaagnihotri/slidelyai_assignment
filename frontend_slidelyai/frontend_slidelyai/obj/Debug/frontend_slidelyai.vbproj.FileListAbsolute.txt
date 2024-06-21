@@ -1,0 +1,15 @@
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\bin\Debug\frontend_slidelyai.exe.config
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\bin\Debug\frontend_slidelyai.exe
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\bin\Debug\frontend_slidelyai.pdb
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\bin\Debug\frontend_slidelyai.xml
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\bin\Debug\Newtonsoft.Json.dll
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\bin\Debug\Newtonsoft.Json.xml
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.vbproj.AssemblyReference.cache
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.Resources.resources
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.vbproj.GenerateResource.cache
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.vbproj.CoreCompileInputs.cache
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend.92C806AA.Up2Date
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.exe
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.xml
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.pdb
+C:\slidely.ai assignment 2\frontend_slidelyai\frontend_slidelyai\obj\Debug\frontend_slidelyai.Form1.resources

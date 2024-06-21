@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9672C5-1BAA-489C-BDF8-0B408FB04B85}|frontend_slidelyai\\frontend_slidelyai.vbproj|C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1A9672C5-1BAA-489C-BDF8-0B408FB04B85}|frontend_slidelyai\\frontend_slidelyai.vbproj|solutionrelative:frontend_slidelyai\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9672C5-1BAA-489C-BDF8-0B408FB04B85}|frontend_slidelyai\\frontend_slidelyai.vbproj|c:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1A9672C5-1BAA-489C-BDF8-0B408FB04B85}|frontend_slidelyai\\frontend_slidelyai.vbproj|solutionrelative:frontend_slidelyai\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9672C5-1BAA-489C-BDF8-0B408FB04B85}|frontend_slidelyai\\frontend_slidelyai.vbproj|C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1A9672C5-1BAA-489C-BDF8-0B408FB04B85}|frontend_slidelyai\\frontend_slidelyai.vbproj|solutionrelative:frontend_slidelyai\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "frontend_slidelyai\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "frontend_slidelyai\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:36:29.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "frontend_slidelyai\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "frontend_slidelyai\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwGoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:37:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\Form1.vb",
+              "RelativeDocumentMoniker": "frontend_slidelyai\\Form1.vb",
+              "ToolTip": "C:\\slidely.ai assignment 2\\frontend_slidelyai\\frontend_slidelyai\\Form1.vb",
+              "RelativeToolTip": "frontend_slidelyai\\Form1.vb",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T16:30:18.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
